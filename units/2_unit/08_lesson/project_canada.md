@@ -8,7 +8,7 @@ Ogopogo is Canada's legendary Lochness monster [ogopogo] residing in the waters 
 This game takes place in three connected bodies of water (Okanagan Lake, Skaha Lake, and Vaseaux Lake). 
 The user has to traverse the lakes in search of the prize. Along the way they collect items and fight monsters. 
 On each move the user has seven possible commands: `left`, `right`, `up`, `down`, `grab`, `fight`, `help`. 
-If the input is invalid (not one of these commands,) the game will let the user know. Otherwise, 
+If the input is invalid (not one of these commands), the game will let the user know. Otherwise, 
 the game will execute the user's command. The goal of the game is to collect the prize guarded by the boss monster.
 
 ## Details
