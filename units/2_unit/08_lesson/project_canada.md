@@ -92,6 +92,7 @@ if user_input == "down":
 * Implement the board using nested lists (each item of the list is a list.)
 
 [ogopogo]https://en.wikipedia.org/wiki/Ogopogo#References 
+[ogopogo]http://www.bbc.com/travel/story/20200309-ogopogo-the-monster-lurking-in-okanagan-lake
 © 2019 GitHub, Inc.
 Terms
 Privacy
